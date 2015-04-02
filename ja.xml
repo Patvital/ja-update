@@ -1,0 +1,129 @@
+<data version="140921115853">
+	<devices>
+		<device id="iPhone1,1" name="iPhone 2G"/>
+
+		<device id="iPhone1,2" name="iPhone 3G"/>
+
+		<device id="iPhone2,1" name="iPhone 3GS"/>
+
+		<device id="iPhone3,1" name="iPhone 4"/>
+		<device id="iPhone3,2" name="iPhone 4"/>
+		<device id="iPhone3,3" name="iPhone 4"/>
+
+		<device id="iPhone4,1" name="iPhone 4S"/>
+
+		<device id="iPhone5,1" name="iPhone 5"/>
+		<device id="iPhone5,2" name="iPhone 5"/>
+
+		<device id="iPhone5,3" name="iPhone 5C"/>
+		<device id="iPhone5,4" name="iPhone 5C"/>
+
+		<device id="iPhone6,1" name="iPhone 5S"/>
+		<device id="iPhone6,2" name="iPhone 5S"/>
+
+		<device id="iPhone7,1" name="iPhone 6+"/>
+		<device id="iPhone7,2" name="iPhone 6"/>
+
+		<device id="iPod1,1" name="iPod Touch 1G"/>
+
+		<device id="iPod2,1" name="iPod Touch 2G"/>
+
+		<device id="iPod3,1" name="iPod Touch 3G"/>
+
+		<device id="iPod4,1" name="iPod Touch 4G"/>
+
+		<device id="iPod5,1" name="iPod Touch 5G"/>
+
+		<device id="iPad1,1" name="iPad"/>
+
+		<device id="iPad2,1" name="iPad 2"/>
+		<device id="iPad2,2" name="iPad 2"/>
+		<device id="iPad2,3" name="iPad 2"/>
+		<device id="iPad2,4" name="iPad 2"/>
+
+		<device id="iPad2,5" name="iPad Mini"/>
+		<device id="iPad2,6" name="iPad Mini"/>
+		<device id="iPad2,7" name="iPad Mini"/>
+
+		<device id="iPad3,1" name="iPad 3"/>
+		<device id="iPad3,2" name="iPad 3"/>
+		<device id="iPad3,3" name="iPad 3"/>
+
+		<device id="iPad3,4" name="iPad 4"/>
+		<device id="iPad3,5" name="iPad 4"/>
+		<device id="iPad3,6" name="iPad 4"/>
+
+		<device id="iPad4,1" name="iPad Air"/>
+		<device id="iPad4,2" name="iPad Air"/>
+		<device id="iPad4,3" name="iPad Air"/>
+
+		<device id="iPad4,4" name="iPad Mini 2"/>
+		<device id="iPad4,5" name="iPad Mini 2"/>
+		<device id="iPad4,6" name="iPad Mini 2"/>
+	</devices>
+	<jailbreaks>
+		<jailbreak name="iPhone 3GS" version="6.0,6.0.1,6.1,6.1.2" tool="evasi0n"/>
+		<jailbreak name="iPhone 3GS" version="6.1.3,6.1.6" tool="p0sixspwn"/>
+
+		<jailbreak name="iPhone 4" version="6.0,6.0.1,6.1,6.1.2" tool="evasi0n"/>
+		<jailbreak name="iPhone 4" version="6.1.3" tool="p0sixspwn"/>
+		<jailbreak name="iPhone 4" version="7.0,7.0.2,7.0.3,7.0.4,7.0.6" tool="evasi0n7"/>
+		<jailbreak name="iPhone 4" version="7.1,7.1.1,7.1.2" tool="pangu"/>
+
+		<jailbreak name="iPhone 4S" version="6.0,6.0.1,6.1,6.1.1,6.1.2" tool="evasi0n"/>
+		<jailbreak name="iPhone 4S" version="6.1.3" tool="p0sixspwn"/>
+		<jailbreak name="iPhone 4S" version="7.0,7.0.2,7.0.3,7.0.4,7.0.6" tool="evasi0n7"/>
+		<jailbreak name="iPhone 4S" version="7.1,7.1.1,7.1.2" tool="pangu"/>
+
+		<jailbreak name="iPhone 5" version="6.0,6.0.1,6.0.2,6.1,6.1.2" tool="evasi0n"/>
+		<jailbreak name="iPhone 5" version="6.1.3,6.1.4" tool="p0sixspwn"/>
+		<jailbreak name="iPhone 5" version="7.0,7.0.2,7.0.3,7.0.4,7.0.6" tool="evasi0n7"/>
+		<jailbreak name="iPhone 5" version="7.1,7.1.1,7.1.2" tool="pangu"/>
+
+		<jailbreak name="iPhone 5C" version="7.0.1,7.0.2,7.0.3,7.0.4,7.0.5,7.0.6" tool="evasi0n7"/>
+		<jailbreak name="iPhone 5C" version="7.1,7.1.1,7.1.2" tool="pangu"/>
+
+		<jailbreak name="iPhone 5S" version="7.0.1,7.0.2,7.0.3,7.0.4,7.0.5,7.0.6" tool="evasi0n7"/>
+		<jailbreak name="iPhone 5S" version="7.1,7.1.1,7.1.2" tool="pangu"/>
+
+		<jailbreak name="iPad 2" version="6.0,6.0.1,6.1,6.1.2" tool="evasi0n"/>
+		<jailbreak name="iPad 2" version="6.1.3" tool="p0sixspwn"/>
+		<jailbreak name="iPad 2" version="7.0,7.0.2,7.0.3,7.0.4,7.0.6" tool="evasi0n7"/>
+		<jailbreak name="iPad 2" version="7.1,7.1.1,7.1.2" tool="pangu"/>
+
+		<jailbreak name="iPad Mini" version="6.0,6.0.1,6.0.2,6.1,6.1.2" tool="evasi0n"/>
+		<jailbreak name="iPad Mini" version="6.1.3" tool="p0sixspwn"/>
+		<jailbreak name="iPad Mini" version="7.0,7.0.2,7.0.3,7.0.4,7.0.6" tool="evasi0n7"/>
+		<jailbreak name="iPad Mini" version="7.1,7.1.1,7.1.2" tool="pangu"/>
+		  
+		<jailbreak name="iPad 3" version="6.0,6.0.1,6.1,6.1.2" tool="evasi0n"/>
+		<jailbreak name="iPad 3" version="6.1.3" tool="p0sixspwn"/>
+		<jailbreak name="iPad 3" version="7.0,7.0.2,7.0.3,7.0.4,7.0.6" tool="evasi0n7"/>
+		<jailbreak name="iPad 3" version="7.1,7.1.1,7.1.2" tool="pangu"/>
+
+		<jailbreak name="iPad 4" version="6.0,6.0.1,6.1,6.1.2" tool="evasi0n"/>
+		<jailbreak name="iPad 4" version="6.1.3" tool="p0sixspwn"/>
+		<jailbreak name="iPad 4" version="7.0,7.0.2,7.0.3,7.0.4,7.0.6" tool="evasi0n7"/>
+		<jailbreak name="iPad 4" version="7.1,7.1.1,7.1.2" tool="pangu"/>
+
+		<jailbreak name="iPad Air" version="7.0.3,7.0.4,7.0.6" tool="evasi0n7"/>
+		<jailbreak name="iPad Air" version="7.1,7.1.1,7.1.2" tool="pangu"/>
+
+		<jailbreak name="iPad Mini 2" version="7.0.3,7.0.4,7.0.6" tool="evasi0n7"/>
+		<jailbreak name="iPad Mini 2" version="7.1,7.1.1,7.1.2" tool="pangu"/>
+		  
+		<jailbreak name="iPod Touch 4G" version="6.0,6.0.1,6.1,6.1.2" tool="evasi0n"/>
+		<jailbreak name="iPod Touch 4G" version="6.1.3,6.1.5,6.1.6" tool="p0sixspwn"/>
+
+		<jailbreak name="iPod Touch 5G" version="6.0,6.0.1,6.1,6.1.2" tool="evasi0n"/>
+		<jailbreak name="iPod Touch 5G" version="6.1.3" tool="p0sixspwn"/>
+		<jailbreak name="iPod Touch 5G" version="7.0,7.0.2,7.0.3,7.0.4,7.0.6" tool="evasi0n7"/>
+		<jailbreak name="iPod Touch 5G" version="7.1,7.1.1,7.1.2" tool="pangu"/>
+	</jailbreaks>
+	<tools>
+		<tool name="p0sixspwn" d_name="p0sixspwn" website="http://www.p0sixspwn.com/" by="winocm, iH8sn0w, and SquiffyPwn" from="6.1.3" to="6.1.6"/>
+		<tool name="evasi0n" d_name="evasi0n" website="http://evasi0n.com/iOS6/" by="evad3rs" from="6.0" to="6.1.2"/>
+		<tool name="evasi0n7" d_name="evasi0n7" website="http://evasi0n.com" by="evad3rs" from="7.0" to="7.0.6"/>
+		<tool name="pangu" d_name="Pangu" website="http://en.pangu.io/" by="the Chinese Pangu Team" from="7.1" to="7.1.2"/>
+	</tools>
+</data>
